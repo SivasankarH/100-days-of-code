@@ -4,7 +4,6 @@
 
 **Today's Progress**: Studied a hour on Advanced Array functions as well as did exercises.
 
-**Thoughts:** 
 
 
 
